@@ -106,10 +106,17 @@ body * {
 
   z-index: 1;
   transform: translateY(-50%);
+
+  animation: slide-soft-back 0.7; 
 }
 .light #switch button {
-  right: 0;
-  left: initial;
+  animation: slide-soft 0.7s forwards;
+
+
+  
+}
+#switch button:hover{
+  outline: 8px solid var(--highlight-color)
 }
 #switch span {
   display: block;
@@ -204,5 +211,24 @@ footer {
   }
   .light {
     --bg-url: url(./assets/bg-desktop-light.jpg);
+  }
+}
+
+/* animatin */
+@keyframes slide-soft{
+  from {
+    left: 0;
+  }
+  to {
+    left: 50%
+  }
+}
+
+@keyframes slide-soft-back{
+  from {
+    left: 50;
+  }
+  to {
+    left: 0%
   }
 }
