@@ -1,9 +1,8 @@
-<h1 align="center"> DevLinks </h1>
+<h1 align="center"> DevLinks com a mentoria do monstro </h1>
 
 <p align="center">
   <img alt="projeto DevLinks" src="./prev.png" width="100%">
 </p>
-
 
 <p align="center">
 Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
@@ -56,4 +55,4 @@ Esse projeto está sob a licença dos MENDONÇA.
 
 ---
 
-Feito com ♥ by Rocketseat 
+Feito com ♥ by Rocketseat
