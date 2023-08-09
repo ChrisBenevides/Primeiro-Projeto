@@ -1,8 +1,15 @@
 <h1 align="center"> DevLinks </h1>
 
 <p align="center">
+  <img alt="projeto DevLinks" src="./prev.png" width="100%">
+</p>
+
+
+<p align="center">
 Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
-<a href="https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito">Estude esse projeto em formato de vídeo clicando aqui.</a>
+<a href="https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito">Estude esse projeto em formato de vídeo clicando aqui.
+</a>
+<br>MAS SEM A MENTORIA NÃO TEM COMO NÃO MLK.</br>
 </p>
 
 <p align="center">
@@ -13,23 +20,23 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
 </p>
 
 <p align="center">
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
+  <img alt="License" src="https://img.shields.io/static/v1?label=LINCENÇA&message=BENEVIDES&color=49AA26&labelColor=002">
 </p>
 
 <br>
 
 <p align="center">
-  <img alt="projeto DevLinks" src=".github/preview1.jpg" width="100%">
+  <img alt="projeto DevLinks" src="./prev.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- HTML e CSS
-- JavaScript
-- Git e Github
-- Figma
+- HTML e CSS (Deu uma base boa)
+- JavaScript (Só passou por cima, acelerado ainda)
+- Git e Github (Mayk deu uma carreira e gravou o vídeo)
+- Figma (Top, super explicado)
 
 ## 💻 Projeto
 
@@ -45,8 +52,8 @@ Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figm
 
 ## :memo: Licença
 
-Esse projeto está sob a licença MIT.
+Esse projeto está sob a licença dos MENDONÇA.
 
 ---
 
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+Feito com ♥ by Rocketseat 
