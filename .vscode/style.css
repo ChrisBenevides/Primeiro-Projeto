@@ -107,7 +107,7 @@ body * {
   z-index: 1;
   transform: translateY(-50%);
 
-  animation: slide-soft-back 0.7; 
+  animation: slide-soft-back 0.7s; 
 }
 .light #switch button {
   animation: slide-soft 0.7s forwards;
