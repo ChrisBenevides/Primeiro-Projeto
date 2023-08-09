@@ -1,7 +1,7 @@
 <header>
-<p align=center>
+
   <img src="./.github/preview.jpg" alt="Logo do curso da rocketseat">
-</p>
+
 </header>
 
 <article>
