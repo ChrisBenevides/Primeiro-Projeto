@@ -50,7 +50,8 @@ body * {
         }
 
 #container {
-  width: 360px;
+  width: 100%;
+  max-width: 580px;
   /*border: 5px solid red;*/
   padding-top: 56px;
   margin: auto;
