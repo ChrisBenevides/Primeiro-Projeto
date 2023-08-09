@@ -1,6 +1,6 @@
 <header>
 
-  <img src="./.github/preview.jpg" alt="Logo do curso da rocketseat">
+  <img src="./github/preview.jpg" alt="Logo do curso da rocketseat">
 
 </header>
 
