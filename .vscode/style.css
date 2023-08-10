@@ -107,16 +107,13 @@ body * {
   z-index: 1;
   transform: translateY(-50%);
 
-  animation: slide-soft-back 0.7s; 
+  animation: slide-soft-back 0.7s;
 }
 .light #switch button {
   animation: slide-soft 0.7s forwards;
-
-
-  
 }
-#switch button:hover{
-  outline: 8px solid var(--highlight-color)
+#switch button:hover {
+  outline: 8px solid var(--highlight-color);
 }
 #switch span {
   display: block;
@@ -215,20 +212,20 @@ footer {
 }
 
 /* animatin */
-@keyframes slide-soft{
+@keyframes slide-soft {
   from {
     left: 0;
   }
   to {
-    left: 50%
+    left: 50%;
   }
 }
 
-@keyframes slide-soft-back{
+@keyframes slide-soft-back {
   from {
     left: 50;
   }
   to {
-    left: 0%
+    left: 0%;
   }
 }
