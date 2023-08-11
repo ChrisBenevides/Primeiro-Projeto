@@ -1,7 +1,7 @@
 <h1 align="center"> DevLinks com a mentoria do monstro </h1>
 
 <p align="center">
-  <img alt="projeto DevLinks" src="./prev.png" width="100%">
+  <img alt="projeto DevLinks" src="./assets/prev.png" width="100%">
 </p>
 
 <p align="center">
@@ -24,9 +24,6 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
 
 <br>
 
-<p align="center">
-  <img alt="projeto DevLinks" src="./prev.png" width="100%">
-</p>
 
 ## 🚀 Tecnologias
 
